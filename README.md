@@ -6,7 +6,7 @@ a mac app using [squashfuse][] and [Platypus][] to mount squashfs disk image by 
 install squashfs-tool and osxfuse first
 
 ```
-brew install squashfs
+brew install gromgit/fuse/squashfuse-mac
 ```
 
 ### Binary Release ###
